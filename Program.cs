@@ -14,7 +14,7 @@ namespace VectoresCalificaciones
 
         static void Main(string[] args)
         {
-            //String es el arreglo con los nombres de los alumnos y int es el de las calificaciones
+            //String es el arreglo con los nombres de los alumnos y int es el de las calificaciones10
             Console.Clear();
             string[] alumnos = new string[] {"Carlos","Andrea","Pedro","Maria","Jose","Sofia","Diego","Erika","Pablo","Karla"};
             int[] calif = new int[10];
